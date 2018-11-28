@@ -3,7 +3,8 @@ library(sp)
 library(raster)
 library(rgdal)
 library(zyp)
-# This is a code for time series
+#i am ilyun and I am destroying it haha
+
 ss <- 35
 
 ### 1. Load coordinations & make shpefile
@@ -183,4 +184,4 @@ for(i in 1:90){
 }
 
 
-# test
+
