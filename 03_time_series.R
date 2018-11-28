@@ -3,7 +3,7 @@ library(sp)
 library(raster)
 library(rgdal)
 library(zyp)
-
+# This is a code for time series
 ss <- 35
 
 ### 1. Load coordinations & make shpefile
